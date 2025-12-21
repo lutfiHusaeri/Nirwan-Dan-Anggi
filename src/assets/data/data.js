@@ -25,7 +25,7 @@ export const data = {
             year: '2026',
             month: 'Januari',
             date: '07',
-            day: 'rabu',
+            day: 'Rabu',
             hours: {
                 start: '08.00',
                 finish: 'Selesai'

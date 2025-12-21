@@ -45,8 +45,8 @@ export const data = {
     },
 
     link: {
-        calendar: 'https://calendar.app.google/oSVLRMYC79GzuA4f9',
-        map: 'https://maps.app.goo.gl/q1Ask2Jgd4ekiiKBA',
+        calendar: 'https://calendar.app.google/nhAK1WNnZQeccio3A',
+        map: 'https://maps.app.goo.gl/bwaK6SceEYNC5HFa9',
     },
 
     galeri: [
@@ -75,21 +75,21 @@ export const data = {
     bank: [
         {
             id: 1,
-            name: 'Lorem Ipsum',
+            name: 'Belum Tersedia',
             icon: './src/assets/images/bca.png',
-            rekening: '12345678'
+            rekening: '07-01-2026'
         },
         {
             id: 2,
-            name: 'Ipsum Lorem',
+            name: 'Belum Tersedia',
             icon: './src/assets/images/bri.png',
-            rekening: '12345678'
+            rekening: '07-01-2026'
         },
     ],
 
     audio: './src/assets/audio/wedding.mp3',
 
-    api: 'https://script.google.com/macros/s/AKfycbyydz6N4p2VWUG8zsXeURv6ap9RP8a4eC3x6N3x6qTDjMVr1cIBz9S0NsHw2rWvBOSXGg/exec',
+    api: 'https://script.google.com/macros/s/AKfycbw_qhXCKL3MsjUp2RF7N3diiFaj5GXI2AVCehkAM69bPNcLEbYjvXFnNUB9ET80_NBW/exec',
 
     navbar: [
         {

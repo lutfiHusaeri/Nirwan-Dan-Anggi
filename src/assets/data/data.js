@@ -12,7 +12,7 @@ export const data = {
             id: 2,
             name: 'Anggi',
             child: 'Putri ke 5',
-            father: 'Awan',
+            father: 'Wawan',
             mother: 'Sadiah',
             image: './src/assets/images/cewe.png'
         },
